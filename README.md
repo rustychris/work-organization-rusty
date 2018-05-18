@@ -11,3 +11,5 @@ I ...
   - keep a running log of my work as a series of google docs, and 
   - keep bits of code and model configuration in various git repositories.
 
+![cloud](https://tsicloud.com/wp-content/uploads/2017/06/cloud.jpg)
+
